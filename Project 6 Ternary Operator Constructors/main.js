@@ -1,3 +1,7 @@
+var X = 10;
+var Y = "Charlie";
+
+
 
 function ridefunction() { //first function
     var Height, Can_ride;
@@ -20,4 +24,14 @@ function vehiclefunction() {
     document.getElementById("KeywordsandConstructors").innerHTML =
         "Erik drives a " + Erik.Vehicle_Color + "-colored " + Erik.Vehicle_Model +
         " manufactured in " + Erik.Vehicle_Year;
+}
+
+function countingfunction() {
+    document.getElementById("Counting").innerHTML = Count();
+    function Count() {
+        var Startingpoint = 9;
+        function Plusone() { Startingpoint += 1; }
+        Plusone();
+        return Startingpoint
+    }
 }
