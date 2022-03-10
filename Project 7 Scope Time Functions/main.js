@@ -29,7 +29,7 @@ if (1 < 2) {
 
 function getDate() {
     if (new Date().getHours() < 18) {
-        document.getElementsById("Greeting").innerHTML = "How are you today?";
+        document.getElementById("Greeting").innerHTML = "How are you today?";
     }
 }
 
