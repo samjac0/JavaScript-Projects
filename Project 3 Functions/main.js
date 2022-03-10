@@ -3,6 +3,14 @@ window.alert(Math.random() * 100);
 var X = 5.25;
 X++;
 document.write(X);
+document.write(a);
+
+var X = 5.25;
+X--;
+document.write(X);
+document.write(a);
+
+
 
 
 function myFunction() { //first function
@@ -24,6 +32,11 @@ function subtraction_Function() { //sub function
 function more_Math() { //multi function
     var simple_math = (1+2) * 10 / 2 -5;
     document.getElementById("Mathlots").innerHTML = "1 plus 2, multiplied by 10, devided in half and then subtracted by 5 equals " + simple_math;
+}
+
+function modulusoperator() {
+    var simple_math2 = 25 % 6;
+    document.getElementById("modulus operator").innerHTML = "When you divide 25 by 6 you have a remainder of: " + simple_math2;
 }
 
 function negation_Operator() { //operator function
