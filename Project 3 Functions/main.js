@@ -1,5 +1,7 @@
 window.alert(Math.random() * 100);
 
+var a = "<br>" // for breaks in functions
+
 var X = 5.25;
 X++;
 document.write(X);
