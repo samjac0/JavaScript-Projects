@@ -26,3 +26,23 @@ const array1 = [5, 12, 8, 130, 44];
 const found = array1.find(element => element > 10);
 document.write(found);
 
+//toString
+function NumberstoString() {
+    var X = 182;
+    document.getElementById("NumberstoString").innerHTML = X.toString();
+}
+
+// toPrecision
+function Precision() {
+    var X = 12938.3012987376112
+    document.getElementById("Precision").innerHTML = X.toPrecision(10);
+}
+
+//toFixed
+function financial(x) {
+    return Number.parseFloat(x).toFixed(2);
+}
+document.write(financial(123.4564561));
+
+
+
