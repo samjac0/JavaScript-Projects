@@ -10,6 +10,7 @@
 
     
 </body>
+<!--The jQuery script below writes all elements inside of the DOMs-->
 <script>
     $(document).ready(function() {
         $("html").append(
@@ -24,6 +25,7 @@
                 </div>\
             </body>"
         );
+        // additional functions that hide text and change color of elements
         $("#2").css({"color":"red"});
         $("#3").click(function() {
             $('h1').hide("default: swing");
