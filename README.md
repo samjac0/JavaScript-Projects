@@ -2,12 +2,25 @@
 
 This repository has various javascript projects that showcase what I have learned through my time in software developer bootcamp. 
 
-These projects showcase my skills. A non-exhaustive skill list is provided below:
+## Projects
 
-Knowledge in...
+[Pizza Menu Project](https://github.com/samjac0/JavaScript_Projects/tree/main/Pizza)
+[TicTacToe Game](https://github.com/samjac0/JavaScript_Projects/tree/main/TicTacToe)
+[Calculator](https://github.com/samjac0/JavaScript_Projects/tree/main/Calculator)
+
+
+### Pizza Menu
+This project is a menu used with a variety of toppings. The customer can input their order, and the program will calculate the final price.
+
+### TicTacToe
+A standard game of tic-tac-toe. Sound effects are included when a winner is crowned as well as in the chance that the game ends in a tie!
+
+### Calculator
+a basic 4-function calculator. Styled with css, users can add, subtract, multiply, and divide on a sleek web version of a calculator.
+
+In addition to the above, other small projects also include knowledge in...
 
 - Creating simple functions, dictionaries, comparison type coercion, ternary operator constructors, scope time functions, string methods.
 - Debugging
-- Knowledge in Arrays, constants, scope, data structures, switch statements, variable hoisting, etc.
-- Creating more complex java such as a basic tic tac toe game, pizza menu, sign-up form and website picture slideshow
+- Arrays, constants, scope, data structures, switch statements, variable hoisting, etc.
 
