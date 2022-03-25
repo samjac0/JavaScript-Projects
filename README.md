@@ -18,7 +18,7 @@ This project is a menu used with a variety of toppings. The customer can input t
 A standard game of tic-tac-toe. Sound effects are included when a winner is crowned as well as in the chance that the game ends in a tie!
 
 ### Calculator
-a basic 4-function calculator. Styled with css, users can add, subtract, multiply, and divide on a sleek web version of a calculator.
+A basic 4-function calculator. Styled with css, users can add, subtract, multiply, and divide on a sleek web version of a calculator.
 
 ________________________________________________
 In addition to the above, other small projects also include knowledge in...
