@@ -5,7 +5,9 @@ This repository has various javascript projects that showcase what I have learne
 ## Projects
 
 [Pizza Menu Project](https://github.com/samjac0/JavaScript_Projects/tree/main/Pizza)
+
 [TicTacToe Game](https://github.com/samjac0/JavaScript_Projects/tree/main/TicTacToe)
+
 [Calculator](https://github.com/samjac0/JavaScript_Projects/tree/main/Calculator)
 
 
@@ -18,6 +20,7 @@ A standard game of tic-tac-toe. Sound effects are included when a winner is crow
 ### Calculator
 a basic 4-function calculator. Styled with css, users can add, subtract, multiply, and divide on a sleek web version of a calculator.
 
+________________________________________________
 In addition to the above, other small projects also include knowledge in...
 
 - Creating simple functions, dictionaries, comparison type coercion, ternary operator constructors, scope time functions, string methods.
