@@ -27,3 +27,5 @@ In addition to the above, other small projects also include knowledge in...
 - Debugging
 - Arrays, constants, scope, data structures, switch statements, variable hoisting, etc.
 
+
+Interested in learning more about me? Checkout my [LinkedIn](https://www.linkedin.com/in/s-jacob-flaherty/) or [developer portfolio!](https://samjac0.github.io/)
